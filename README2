@@ -6,6 +6,8 @@
     <body>
         <h1>How to create a webpage></h1>
         <p>It's easy and fun</p>
+        <img src="http://www.mypicture.com/lake.jpg">
+        <body style="background-color: blueviolet;">
         
     </body>
 </html>
