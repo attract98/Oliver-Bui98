@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Ho Chi Minh</h1>
+    <h3>The first President of VietNam</h3>
+    <hr>
+    <p>Ho Chi Minh, original name Nguyen Sinh Cung, also called Nguyen Tat Thanh or Nguyen Ai Quoc, (born May 19, 1890, Hoang Tru, Vietnam, French Indochina—died September 2, 1969, Hanoi, North Vietnam), founder of the Indochina Communist Party (1930) and its successor, the Viet-Minh (1941), and president from 1945 to 1969 of the Democratic Republic of Vietnam (North Vietnam). As the leader of the Vietnamese nationalist movement for nearly three decades, Ho was one of the prime movers of the post-World War II anti-colonial movement in Asia and one of the most influential communist leaders of the 20th century.</p>
+    <h4>Early Life</h4>
+    <img src="img/Ho-Chi-Minh-first-president-of-Vietnam-2.jpg" width="500">
+
+    <p>Ho Chi-Minh was born Nguyen Sihh Cung on May 19, 1890, in Nghe province in central Vietnam. He was brought into the struggle for independence almost from birth. Nghe was the center of resistance to China’s one thousand-year control of Vietnam. Ho’s father was a minor official in the French regime and an ardent critic of French colonialism in Vietnam. He would eventually resign from his position to protest French control.</p>
+    <h3>Vietnam Revolution</h3>
+    <p>During World War II, Germany had taken over France and other European countries, leaving Indochina up for grabs. Japan moved in to fill the vacuum occupying much of Indochina. Ho Chi-Minh slipped across the border from China to rally his people toward independence.</p>
+    <h3>Ho Chi Minh’s Importance</h3>
+    <p>By 1967 Ho Chi-Minh’s health was in decline. He made few public appearances but his legacy was kept alive in North Vietnamese for propaganda purposes. His political struggles with the West were nearly over. He was moving toward the image of national hero. In North Vietnam he was widely viewed as the father of the nation and often referred to as “Uncle Ho.” On September 2, 1969, Ho Chi-Minh died of heart failure at his home in Hanoi. He was 79. It would be almost six years before the South Vietnamese government would collapse and U.S. forces would withdraw ending the war in Vietnam.</p>
+    
+
+   
+
+</body>
+</html>
