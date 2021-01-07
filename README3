@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <title>Register Formm</title>
+</head>
+<body>
+<div> <h1>Registration Form</h1></div>
+    <form>
+        <table>
+            <tr>
+                <td>
+                   <h3>Name:</h3>
+                </td>
+                <td>
+                    <input type="text" placeholder="Name"name="">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h3>Password:</h3>
+                </td>
+                <td>
+                    <input type="password"placeholder="Password" name="">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h3>Gender</h3>
+                </td>
+                <td>
+                    <input type="radio"name="Gender">Male
+                    <input type="radio"name="Gender">Famale
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h3>Email:</h3>
+                </td>
+                <td>
+                    <input type="email"placeholder="Email@gmail.com" name="">
+                    <td>              
+            </tr>
+            <tr>
+                <td>
+                    <h3>Phone:</h3>
+                </td>
+                <td>
+                    <select>
+                        <option>788</option>
+                        <option>302</option>
+                    </select>
+                    <input type="phone"placeholder="788*****" name="">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="submit"value="Submit" name="">
+                </td>
+            </tr>
+        </table>
+    </form>
+    
+</body>
+</html>
