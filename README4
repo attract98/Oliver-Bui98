@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hanoi City</title>
+</head>
+<body>
+    <h1>Wellcome to Hanoi</h1>
+    <ul class="mainMenu">
+        
+<li>
+    <a href="https://www.galatourist.asia/introduce-and-some-informations-about-hanoi-city.html" target="_blank" title="All information about HaNoi here">More information about Hanoi.</a>
+
+</li>
+<br/>
+<li>
+<a href="about.html"title="About"target="_blank">About Us</a>
+<hr>
+</li>
+    </ul>
+    <br/>
+    <h1>Introduce and some informations about Hanoi city</h1>
+    <p>Hanoi is a capital of thousand years of civilization with ancient relics, peaceful life. <br>If you have a trip to Hanoi, surely you can not forget the typical atmosphere here and explore Hanoi city attractions, with Hoan Kiem Lake, West Lake, quiet cafés and small streets...</p>
+    <br/>   
+    <img src="honoiaddd.png" width="900"/>
+    <br><br/>
+<h1>The ideal time to Hanoi</h1>
+
+                <img src="chuathaphanoi.jpg" width="500">
+                <p>Each season, Hanoi has its own beauty. But the ideal time to visit Hanoi city attractions is most beautiful in autumn, from August to  October, especially in September and October. <br>This is the time the rainy season in Hanoi end, the sun is clear and the weather is not too hot but cool.</p>
+        
+                <p>In Hanoi, one of the unique features of Hanoi tourism is the old quarter cycle. Many visitors to Hanoi choose the train to visit, explore the ancient beauty on each street between <b>Hanoi city attractions</b>. <br>If cyclo carries an antique look, electric cars are a means of "green tourism" modern and very new of <b>Hanoi city attractions</b>. You will discover a civilized, polite Hanoi with modern life.</p>
+                <h1>Places to visit, have fun when traveling to Hanoi</h1>
+                <h3>Hoan Kiem Lake</h3>
+                 A special feature of <b>Hanoi city attractions</b> is that in the city there are many lakes and the city is surrounded by big rivers. Hoan Kiem lake is located in the heart of the city with an ancient turtle lying on a small peninsula in the middle of the lake. <br>Next to Hoan Kiem lake are impressive architectural works and valuable treasures of the city: Pen Tower, Radio Tower, The Huc Bridge leading to Dac Nguyet or Tran Ba Temple ... on the way to <a href="https://www.galatourist.asia/introduce-and-some-informations-about-hanoi-city.html"
+                 target="_blank">Ngoc Son Temple.</a>
+                <h3>Hanoi Cathedral</h3>
+                <p>Hanoi Cathedral is the typical architecture of <b>Hanoi city attractions</b>. The scene is airy and pleasant, making it an attractive destination for the young people of Hanoi as well as those who travel to Hanoi. <br>Sitting on the sidewalk pavement features a taste of the cold weather of Hanoi sky. In the evening gather together friends chat on the glass of lemon tea.</p>
+                <h1>Hanoi specialties</h1>
+                <h3>Pho Hanoi</h3>
+                <p>Phở is the first dish that you should enjoy when coming to Hanoi. There are lots of famous Phở restaurants as "Phở gánh" in Hàng Trống - a restaurant that has been existed for a long time; <br>"Pho Ly Quoc Su", the best chicken noodle sou, located on Quan Thanh Street; "Pho Hanh" on Lan Ong Street or Luong Van Can Street.</p>
+
+                <h3>Bun Cha - Spring roll</h3>
+                <p>Known as a traditional dish of Hanoi, Bun Cha or Spring roll in English is an attractive specialty. This dish is served with vermicelli and raw vegetables and shiso leaves. <br>You can eat this dish at some address we recommend:</p>
+                <ul>
+                    <li>Huong Lien spring roll: 24 Le Van Huu, Hai Ba Trung, Hanoi.</li>
+                    <li>Dac Kim spring roll: No. 1 Hang Manh, Hoan Kiem, Hanoi.</li>
+                    <li>Spring roll with bamboo stick:  Nguyen Du - Ba Trieu.</li>
+                </ul>
+                <hr>
+                <h1>Travel in Vietnam Price</h1>
+                <table border="15">
+                
+                    <tr>
+                        <th>Month</th>
+                        <th>Rent</th>
+                        <th>Utilities</th>
+                        <th>Groceries</th>
+                        <th>Eating Out</th>
+                        <th>Entertainment</th>
+                    </tr>
+                    <tr>
+                        <td>Month</td>
+                        <td>$1000</td>
+                        <td>$150</td>
+                        <td>$350</td>
+                        <td>$100</td>
+                        <td>$50</td>
+                     </tr>
+                    
+                </table>
+              
+            
+
+
+
+
+
+
+    
+</body>
+</html>
