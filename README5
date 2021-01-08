@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>More Information About Hanoi</title>
+</head>
+<body>
+    <h1>Design Your own Trip</h1>
+    <p>Please fill in your details below and we will contact you by email or phone within 2 to 48 hours with an itinerary for your convenience and will set at best your budget.</p>
+    <table>
+        <tr>
+            <td>
+                <h3>Full name:</h3>
+            </td>
+            <td> <input type="text" placeholder="Name"name=""></td>
+        </tr>
+        <tr>
+            <td>
+                <h3>Email:</h3>
+            </td>
+            <td>
+                <input type="email"placeholder="Email@gmail.com" name="">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h3>Nationality:</h3>
+            </td>
+            <td>
+                <input type="Nationality" placeholder="Canadian?"name="">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h3>Telephone:</h3>
+            </td>
+            <td>
+                <input type="Telephone" placeholder="7783028990"name="">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input type="submit"value="Submit" name="">
+            </td>
+        </tr>
+    </table>
+
+
+</body>
+</html>
