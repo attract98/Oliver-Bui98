@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <title>Document</title>
+</head>
+<body>
+    <style>
+        table, th, td {
+          border: 1px solid black;
+        }
+        
+        table {
+          width: 50%;
+        }
+        </style>
+    
+     
+    <style>
+        
+        #content {
+            width: 900px;
+            margin: 0px auto;
+        }   
+        .text-center{
+            text-align: center;
+        }
+    </style>
+    <div id="content">
+        <h1>VOLLEYBALL VICTORY</h1>
+        <hr>
+        <h4>CLAREMORRIS GIRLS WIN ALL-IRELAND TITLE IN STYLE</h4>
+    <div class="text-center">
+        <img src="volleyball-men-thumbnail.webp" width="500"> </i>
+        <p>Volleyball at Rio 2016</p>
+    </div>
+        <p>
+            <span style="color: black;background-color: blanchedalmond;"><b>V</b>ictory seemed unlikely. Mount Saint Michael were two sets down and St. Leo’s certainly had the</span>
+            upper hand in the third set, dominating 9 points to 2. Each time St. Leo’s scored, they pounded the
+            ground in unison, further intimidating an already shaky Claremorris team. So how, in these
+            circumstances, did they snatch victory from the jaws of almost certain defeat?
+        </p>
+        <p>
+            <span style="color: black;background-color: blanchedalmond;"><b>T</b>he first set seemed to suggest two teams who were equally matched</span>. Michael’s fought point for
+            point against a Leo’s team whose defence was almost impenetrable, yet Edel Nolan managed to hit
+            home some impressive spikes. However, as the set drew to a close, they found themselves unable to
+            finish the job and St Leo’s stormed into the second set with a 25-22 win in the first set under their
+            belt.
+        </p>
+        <p>
+            <span style="color: black;background-color: blanchedalmond;"><b>T</b>he third set began in similar fashion but sensing that they now had nothing to lose – except of</span>
+            course the All-Ireland Title – the team lifted their game tremendously, aided by the now deafening
+            cries of their desperate supporters, led by Lisa Brett and Chloe Hughes. Strategic use of time outs by
+            coach Fionnghuala King saw the girls finally settle into the match. She no doubt reminded them of
+            their team mantra – no matter how badly things seem to be going ‘don’t lose your marbles’.
+            Stephanie Mellet had a great run of serves and made a stunning save at this crucial point in the set.
+            Aisling Croghan made some unbelievable hits from the wings and Edel Nolan shone as the driving
+            force behind Mount St Michael’s incredible comeback. They won the third set 25-16 and St Leo’s
+            game began to fall apart.
+        </p>
+        <h2>Full-width Table</h2>
+
+<table>
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+  </tr>
+  <tr>
+    <td>Peter</td>
+    <td>Griffin</td>
+  </tr>
+  <tr>
+    <td>Lois</td>
+    <td>Griffin</td>
+  </tr>
+</table>
+    </div>
+   
+
+    
+</body>
+</html>
