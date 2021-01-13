@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+  <title>Inline Menu</title>
+  <link rel="stylesheet" type="text/css" href="style.css"> 
+</head>
+<body>
+  <header>
+     <h1>VOLLEYBALL VICTORY</h1>
+     <hr/>
+     <h2>CLAREMORRIS GIRLS WIN ALL-IRELAND TITLE IN STYLE</h2>
+     <nav>
+         <ul>
+              <li>
+                <a href="#">Home</a>
+              </li>
+              <li>
+                <a href="#">About</a>
+              </li>
+              <li>
+                <a href="#">Contact us</a>
+              </li>
+          </ul>
+      </nav>
+
+  </header>
+  <section class="banner">
+    <img src="volleyball-men-thumbnail.webp" width="500">
+
+  </section>
+  
+</body>
+</html>
