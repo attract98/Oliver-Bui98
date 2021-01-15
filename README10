@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Facts about Animal</title>
+    <link rel="stylesheet" type="text/css" href="style.css">    
+    <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div id="main">
+        <div id="navbar">
+            <ul>
+                <li class="session"><a href="session.html">Book a Session</a></li>
+                <li><a href="#">Home</a></li>
+                <li><a href="about.html" title="More history about Animals" target="_blank">About</a></li>
+                <li><a href="#">FAQ</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </div>
+        <div id="jumbotron">
+            <div id="logo">
+                <img src="a2b4e241717093.57b1d75b15dc4.jpg"   >
+                <h1>Facts About Animals</h1>
+                <p>Amazing Animal Facts That Will Surprise You</p>
+            </div>
+    </div>
+        <div id="ribbon">
+            </div>
+        <div id="content">
+            <div id="left">
+                <img src="1475439613_ho-cop-04.jpg" width="500px">
+            </div>
+            <div id="right">
+                <h1>Facts about Tiger</h1>
+                <p>Tigers are often looked as being one of the most beautiful yet ferocious animals and perhaps this is a sole driving factor that makes them even more interesting creatures. But sadly, they have come to a verge of being categorized as endangered, thanks to the human sloppiness and prudence.As a wildlife lover with keen interest on large cats, I enjoy visiting wildlife sanctuaries but the question remains, how well do I or we know about this exotic animal? We’re often clouded by many misconceptions with other large cat species, but hopefully, you’ll learn something about them through this blog where I’ve listed some facts about tigers. Spoiler alert - you would be knowing some of the facts already but what the hell!</p>
+                <ul>
+                    <li>One of the12 Chinese Zodiac Animals</li>
+                    <li>As a spirit animal, the meaning for the tiger is said to be willpower, courage, and personal strength.</li>
+                    <li>Tigers are nocturnal animals</li>
+                    <li>Tiger cubs are born blind and only half of the cubs survive</li>
+                    <li>Tigers love to swim and play in the water</li>
+                </ul>
+            </div>
+        </div>
+        <div id="play">
+            <div id="swim">
+                <img src="mantis-shrimp.jpg" width="500px">
+            </div>
+            <div id="said">
+                <h1>Facts about Mantis shrimp</h1>
+                <p>Mantis shrimps, or stomatopods, are carnivorous marine crustaceans of the order Stomatopoda, branching from other members of the class Malacostraca around 340 million years ago. Mantis shrimps typically grow to around 10 cm in length, while a few can reach up to 38 cm.</p>
+                <ul>
+                    <li>PACK A POWERFUL PUNCH—strong enough to break the shells of its prey.</li>
+                    <li>Eyes of mantis shrimp are located on the long stalks that can move independently.</li>
+                    <li>Mantis shrimp can detect cancer cells with their eyes.</li>
+                    <li>The are older than dinosaurs.</li>
+                    <li>Some mantis shrimp species are monogamous, remaining with the same partner for up to 20 years.</li>
+                </ul>
+            </div>           
+        </div>
+        <div id="footer">
+            <div id="social">
+                <ul>
+                    <h1>Check our social    </h1>
+                    <li><a href="https://www.facebook.com" target="_blank">Facebook</a><img src="facebook-logo-icon-vector-29227975.jpg" width="50"></li>
+                    <li><a href="https://www.facebook.com" target="_blank">Instagram</a><img src="1200px-Instagram_logo_2016.svg.webp" width="45"></li>
+                    <li><a href="https://www.facebook.com" target="_blank">Youtube Channel</a><img src="download.png" width="45"></li>
+                    
+                </ul>
+
+            </div>
+        </div>
+
+    </div>
+
+    
+</body>
+</html> 
+
+
+
+
+
+
+
+                                                                         STYLE
+                                                                         
+                                                                         
+                                                                         
+                                                                         
+                                                                         
+  body{
+    background: url(beautiful-wallpaper-download-14.jpg);
+    margin: 0px;
+    padding: 0px;
+
+}
+#main{
+    margin: auto;
+    width: 80%;
+}
+#navbar{
+    width: 100%;
+    height: 40px;
+    background-color: gray;
+}
+#navbar ul{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+#navbar li{
+    display: inline;
+    float: left;
+}
+#navbar a{
+    display:block;
+    padding: 10px 40px;
+    background-color: gray;
+    color: #fff;
+    text-decoration: none;
+}
+#navbar a:hover {
+    background-color: #f64a5f;
+    font-weight: bold;
+
+}
+.session {
+    font-weight: bold;
+}
+#jumbotron {
+    height: 400px;
+    background-color:honeydew;
+}
+#jumbotron img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: 700px;
+}
+#jumbotron h1{
+    font-size: 25px;
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+}
+#jumbotron p {
+    font-size: 19px;
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+
+}
+#ribbon {
+    background: url(beautiful-background-of-lines-with-gradients-vector.jpg);
+    height: 50px;
+    background-position: 20% 20%;
+}
+#content{
+    width: 100%;
+    padding: 10px;
+    background-color: honeydew;
+    box-sizing: border-box;
+    display: flex;
+}
+
+#left {
+    margin-right: 20px;
+    margin-top: 15px;
+    overflow: hidden;
+}
+#left img{
+   border-radius: 20px;
+   width: 250px;
+   height: 350px;
+}
+#right{
+    flex: 1px;
+}
+#play{
+    width: 100%;
+    padding: 10px;
+    background-color: honeydew;
+    box-sizing: border-box;
+    display: flex;
+}
+
+#swim {
+    margin-right: 20px;
+    margin-top: 15px;
+    overflow: hidden;
+}
+#swim img{
+   border-radius: 20px;
+   width: 250px;
+   height: 350px;
+}
+#said{
+    flex: 1px;
+}
+#footer{
+    background-color: honeydew;
+    
+}
